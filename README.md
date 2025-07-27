@@ -1,4 +1,4 @@
-Data Science & Machine Learning Portfolio
+**Data Science & Machine Learning Portfolio**
 Welcome to my portfolio of data science and machine learning projects! This repository serves as a curated showcase of my technical skills and problem-solving approach across various domains. Each project is encapsulated within a Jupyter Notebook (.ipynb), providing a transparent view into the code, analytical methodologies, and key findings.
 
 I invite you to explore these projects to gain insight into my capabilities in data analysis, predictive modeling, and machine learning application.
